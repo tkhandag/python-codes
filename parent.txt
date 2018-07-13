@@ -1,0 +1,6 @@
+"pid","name","wname","children",
+p1,chiru,surekha,3
+p2,bala,niraja,2
+p3, vemky, amala, 1
+p4, nag, nidhi,4
+p5, kamal, gowthami, 3

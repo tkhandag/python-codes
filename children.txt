@@ -1,0 +1,8 @@
+"child", "name", "age", "pid"
+101,ramkrishna, 30,p1
+102, makshalaya, 20,p2
+103, archana , 25 , p2
+104, chaithana, 30 , p4
+105, raman , 29, p1
+106, sristhi , 27, p1
+107 , akhil , 26, p4

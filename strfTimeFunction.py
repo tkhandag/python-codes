@@ -1,0 +1,10 @@
+from datetime import datetime
+x=datetime.now()
+print(x.strftime("%a"))
+print(x.strftime("%A"))
+print(x.strftime("%b"))
+print(x.strftime("%B"))
+print(x.strftime("%F"))
+print(x.strftime("%y"))
+print(x.strftime("%Y"))
+print(x.strftime("%a,%A, %b, %B"))
